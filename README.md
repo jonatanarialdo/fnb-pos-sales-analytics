@@ -1,6 +1,8 @@
 # fnb-pos-sales-analytics
 # Coffee & Bakery Point-of-Sale (POS) Analytics & Operations Optimization
 
+![Executive Dashboard Overview](assets/dashboard_overview.png)
+
 ## Project Overview
 This project evaluates real-world point-of-sale (POS) transactional records from an urban coffee and bakery outlet. The objective is to extract actionable business intelligence regarding product sales concentration, staffing schedules during peak operational windows, menu engineering, and cross-selling product associations.
 
